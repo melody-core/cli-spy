@@ -1,6 +1,6 @@
 {
   "name": "@melody-core/cli-spy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "🕵️‍♀️ 检测目标服务器端口的状态",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "author": "wxydesign",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/melodyWxy/cli-spy.git"
+    "url": "git+https://github.com/melody-core/cli-spy.git"
   },
   "keywords": [
     "cli",
@@ -33,7 +33,6 @@
     "melody"
   ],
   "bugs": {
-    "url": "https://github.com/melodyWxy/cli-spy/issues"
-  },
-  "homepage": "https://github.com/melodyWxy/cli-spy#readme"
+    "url": "https://github.com/melody-core/cli-spy.git/issues"
+  }
 }
