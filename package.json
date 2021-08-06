@@ -1,6 +1,6 @@
 {
   "name": "@melody-core/cli-spy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "🕵️‍♀️ 检测目标服务器端口的状态",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "bin": {
     "spy": "index.js"
   },
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2",
     "commander": "^8.0.0",
@@ -34,5 +34,9 @@
   ],
   "bugs": {
     "url": "https://github.com/melody-core/cli-spy.git/issues"
+  },
+  "homepage": "https://melody-core.github.io/",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   }
 }
